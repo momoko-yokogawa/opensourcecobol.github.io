@@ -2,7 +2,7 @@
 1. [まえがき](1-1.md)
     - [1.1. opensource COBOLとは](1-1.md#11-opensource-cobolとは)
     - [1.2. COBOL/opensource COBOLの重要機能](1-2-1.md#12-cobolopensource-cobolの重要機能)
-        - [1.2.1. COBOL プログラムの構文](1-2-1.md#121-cobolプログラムの構文)
+        - [1.2.1. COBOLプログラムの構文](1-2-1.md#121-cobolプログラムの構文)
         - [1.2.2. コピーブック](1-2-2.md)
         - [1.2.3. 構造化データ](1-2-3.md)
         - [1.2.4. ファイル](1-2-4.md)
@@ -237,4 +237,3 @@
 
 [ページトップへ](TOC.md)
 <!--navi end2-->
-<div class="page-break"></div>
